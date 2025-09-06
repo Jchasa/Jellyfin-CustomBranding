@@ -3,6 +3,10 @@
 Ce plugin vous permets de customiser le logo de Jellyfin
 ---
 
+> [!IMPORTANT]  
+> Ce plugin change les logos sur le site web, ça ne fonctionnera probablement pas sur les applis (comme sur téléphone ou TV)
+
+
 ## 🛠️ Installation
 
 ### Accéder à votre Dashboard

@@ -6,6 +6,9 @@ This plugin allows you to replace the default Jellyfin logos.
 
 ---
 
+> [!IMPORTANT]  
+> This plugin change the website logo, this might not work for apps (Like mobile or tv)
+
 ## 🛠️ Installation Steps
 
 ### Access Jellyfin Dashboard:
