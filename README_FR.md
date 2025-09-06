@@ -61,3 +61,6 @@ Essayez de nettoyer votre cache
 Firefox : https://support.mozilla.org/fr/kb/comment-vider-cache-firefox
 Chrome : https://support.google.com/accounts/answer/32050
 
+## Bugs connus
+### Docker
+Sur un serveur fait avec Docker, une erreur apparait indiquant le manque de permission, malgré que l'utilisateur Jellyfin ai les droits
