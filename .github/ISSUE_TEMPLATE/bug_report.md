@@ -7,6 +7,13 @@ assignees: ''
 
 ---
 
+**Did you check all of this?**
+- [ ] My image is in PNG Format
+- [ ] I tried to clear my browser cache
+- [ ] My issue cannot be resolved with the "Troubleshooting" section of the readme
+- [ ] My issue isn't a know issue
+
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
