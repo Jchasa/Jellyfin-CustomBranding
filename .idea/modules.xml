@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Jellyfin-CustomLogo.iml" filepath="$PROJECT_DIR$/.idea/Jellyfin-CustomLogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jellyfin-CustomBranding.iml" filepath="$PROJECT_DIR$/.idea/Jellyfin-CustomBranding.iml" />
     </modules>
   </component>
 </project>
