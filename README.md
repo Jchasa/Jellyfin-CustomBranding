@@ -21,14 +21,14 @@ This plugin allows you to replace the default Jellyfin logos.
     - Add a name
     - **URL:**
       ```
-      https://raw.githubusercontent.com/ImLacy/Jellyfin-CustomLogo/refs/heads/main/manifest.json
+      https://raw.githubusercontent.com/jchasa/Jellyfin-CustomBranding/refs/heads/main/manifest.json
       ```
 4. Click **Save**.
 
 ### Install the Plugin:
 
 - Navigate to `Plugins` > `Catalog`.
-- Find **Custom Logo** in the list.
+- Find **Custom LogoBranding** in the list.
 - Click **Install**.
 
 Restart Jellyfin
