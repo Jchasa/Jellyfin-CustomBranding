@@ -1,6 +1,6 @@
 using MediaBrowser.Model.Plugins;
 
-namespace CustomLogo.Configuration;
+namespace CustomBranding.Configuration;
 
 /// <summary>
 /// Plugin configuration.

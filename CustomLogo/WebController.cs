@@ -5,7 +5,7 @@ using MediaBrowser.Common.Configuration;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CustomLogo
+namespace CustomBranding
 {
     [Route("logo")]
     public class WebController : ControllerBase
