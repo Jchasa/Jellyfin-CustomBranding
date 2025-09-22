@@ -1,6 +1,8 @@
-# Jellyfin Custom Logo
+# Jellyfin Custom Branding
 
-This plugin allows you to replace the default Jellyfin logos.
+This plugin allows you to replace the default Jellyfin logos currently.
+
+Future updates planned
 
 ---
 
@@ -28,7 +30,7 @@ This plugin allows you to replace the default Jellyfin logos.
 ### Install the Plugin:
 
 - Navigate to `Plugins` > `Catalog`.
-- Find **Custom LogoBranding** in the list.
+- Find **Custom Branding** in the list.
 - Click **Install**.
 
 Restart Jellyfin
