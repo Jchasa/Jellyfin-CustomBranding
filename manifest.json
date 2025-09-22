@@ -1,11 +1,11 @@
 [
   {
     "guid": "eb5d7894-8eef-4b36-aa6f-5d124e828ce1",
-    "name": "CustomLogo",
+    "name": "CustomBranding",
     "description": "Add the abiliy to replace the Jellyfin logo",
-    "owner": "Lacy",
+    "owner": "jchasa",
     "category": "General",
-    "imageUrl": "https://github.com/ImLacy/Jellyfin-CustomLogo/blob/main/logo.png?raw=true",
+    "imageUrl": "https://github.com/jchasa/Jellyfin-CustomLogo/blob/main/logo.png?raw=true",
     "versions": [
       {
         "version": "1.0.2",
