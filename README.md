@@ -30,7 +30,7 @@ Future updates planned
 ### Install the Plugin:
 
 - Navigate to `Plugins` > `Catalog`.
-- Find **Custom LogoBranding** in the list.
+- Find **Custom Branding** in the list.
 - Click **Install**.
 
 Restart Jellyfin
