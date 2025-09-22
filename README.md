@@ -1,6 +1,8 @@
-# Jellyfin Custom Logo
+# Jellyfin Custom Branding
 
-This plugin allows you to replace the default Jellyfin logos.
+This plugin allows you to replace the default Jellyfin logos currently.
+
+Future updates planned
 
 ---
 
