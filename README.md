@@ -41,7 +41,7 @@ Restart Jellyfin
 
 ### Access Plugin Configuration:
 
-- Go to `Plugins` > `Custom Logo`.
+- Go to `Plugins` > `Custom Branding`.
 
 ### Upload Logo:
 
